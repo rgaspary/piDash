@@ -1,0 +1,24 @@
+{
+  "name": "pidash",
+  "version": "0.0.1",
+  "description": "Dashboard screen running on a raspberry pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgaspary/piDash.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "dash"
+  ],
+  "author": "Renzo Gaspary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgaspary/piDash/issues"
+  },
+  "homepage": "https://github.com/rgaspary/piDash#readme"
+}
