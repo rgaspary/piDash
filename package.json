@@ -16,7 +16,7 @@
     "dash"
   ],
   "author": "Renzo Gaspary",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/rgaspary/piDash/issues"
   },
